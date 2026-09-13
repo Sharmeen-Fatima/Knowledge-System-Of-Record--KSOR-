@@ -2,10 +2,12 @@
 type: Policy
 title: Refund policy
 description: When customers can return an item and how refunds are issued.
-status: draft
+status: stable
+generated: { by: human:you, at: 2026-09-14T00:00:00Z }
 ksor:
   audience: [public]
   owner: human:you
+  approval: { by: human:you, at: 2026-09-14T00:00:00Z }
 sources:
   - id: owner-statement-2026-09-14
     title: Refund policy details provided by the owner
