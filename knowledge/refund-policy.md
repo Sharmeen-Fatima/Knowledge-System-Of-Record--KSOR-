@@ -12,6 +12,9 @@ sources:
   - id: owner-statement-2026-09-14
     title: Refund policy details provided by the owner
     resource: "Statement by human:sharmeenfatima (Owner), 2026-09-14T00:00:00Z, provided directly to the coding agent"
+verified:
+  - by: human:sharmeenfatima
+    at: 2026-09-14T13:00:00Z
 ---
 
 Customers can return an item within 30 days of purchase, provided they have a
