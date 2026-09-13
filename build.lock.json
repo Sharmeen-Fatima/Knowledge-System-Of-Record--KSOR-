@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "build_id": "sha256:b3dd9fa1efc149df47ed1a0c2bbd3c37add42923c722735b0e5e8fcbb18eb49f",
+  "build_id": "sha256:f515ccadae5c6acca4a471b3648eb1079672352556420d1a3256708790fc3cba",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
@@ -8,8 +8,8 @@
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
   "source_commit": "7e9d7588b6223cf847d2a3a28fe768df42198420",
-  "dirty": false,
-  "as_of": "2026-09-13T21:26:22.791Z",
+  "dirty": true,
+  "as_of": "2026-09-13T21:29:55.980Z",
   "drafts": "hidden",
   "instance_sha256": "94f90fe1ae6dca41e9a47a24ed09e1915459f8b093827a9bf334d7f218302ae4",
   "policy_sha256": "5476bb226d1e4ce03fd011cd048cb8ffa7671c8fe8142eebf7dded48eb03056d",
@@ -27,7 +27,7 @@
   "documents": [
     {
       "path": "creativedev-assistant.md",
-      "sha256": "9108c15e139cba3c4b332af90b2fb9fac307800dde0381502277d389c8977bb6",
+      "sha256": "d8f11dcfd4489e5b9b95f42b44b9eb01be35cc8b31ea72317b9fdc0f53d155cb",
       "status": "stable",
       "audience": [
         "public"
@@ -38,7 +38,7 @@
     },
     {
       "path": "creativedev-studio.md",
-      "sha256": "d8ad7e2f2909135c9ca9e790e9429ea14f36d4bfb36beab28222b142fc1b84d4",
+      "sha256": "5580e5076a2cc5621fe9133b6742a100463f7863db2c05f0f8a43305cf03ccc5",
       "status": "stable",
       "audience": [
         "public"
@@ -134,7 +134,7 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "fbc87138b4f6d21e03f6bedde1c471ac1ea6ff55ccbbc4f3241be19eb5b00b6e",
+      "sha256": "96d074cf2f83cc0bfd5eb5f774d3115de2eba504f973d721c9e3193845bd6387",
       "files": 11
     }
   ]
