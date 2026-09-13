@@ -3,15 +3,15 @@ type: Policy
 title: Refund policy
 description: When customers can return an item and how refunds are issued.
 status: stable
-generated: { by: human:you, at: 2026-09-14T00:00:00Z }
+generated: { by: human:sharmeenfatima, at: 2026-09-14T12:00:00Z }
 ksor:
   audience: [public]
-  owner: human:you
-  approval: { by: human:you, at: 2026-09-14T00:00:00Z }
+  owner: human:sharmeenfatima
+  approval: { by: human:sharmeenfatima, at: 2026-09-14T12:00:00Z }
 sources:
   - id: owner-statement-2026-09-14
     title: Refund policy details provided by the owner
-    resource: "Statement by human:you (Owner), 2026-09-14T00:00:00Z, provided directly to the coding agent"
+    resource: "Statement by human:sharmeenfatima (Owner), 2026-09-14T00:00:00Z, provided directly to the coding agent"
 ---
 
 Customers can return an item within 30 days of purchase, provided they have a
@@ -35,4 +35,4 @@ Faulty goods are exempt from the 30-day return window.[^owner-statement-2026-09-
 > Open question: whether a receipt is still required, and whether the item
 > must be unused, when the goods are faulty. Not yet confirmed by the owner.
 
-[^owner-statement-2026-09-14]: Statement by human:you (Owner), provided directly to the coding agent, 2026-09-14.
+[^owner-statement-2026-09-14]: Statement by human:sharmeenfatima (Owner), provided directly to the coding agent, 2026-09-14.
