@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:cfceffc2c3e3a68e7b8c57e4abf785fac81c57853ac6420a630a6720131cff86",
+  "build_id": "sha256:1e56619c006ff0d2e623504d40ed15ced7e349be3204fc1f8d030796fe1734c4",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "f1ee9dae4b6c8d94c5885a7ed902e6625ac8d4bd",
+  "source_commit": "5747e99e1e03dd07f30570c03d2c8dc22160ecda",
   "dirty": true,
-  "as_of": "2026-09-13T21:12:03.534Z",
+  "as_of": "2026-09-13T21:16:19.209Z",
   "drafts": "hidden",
   "instance_sha256": "94f90fe1ae6dca41e9a47a24ed09e1915459f8b093827a9bf334d7f218302ae4",
   "policy_sha256": "5476bb226d1e4ce03fd011cd048cb8ffa7671c8fe8142eebf7dded48eb03056d",
@@ -27,7 +27,7 @@
   "documents": [
     {
       "path": "creativedev-studio.md",
-      "sha256": "0dd71d38d236a0c30aec096d5f1a4cbbab2b9fc0b65b60424e7cc1d30bafe75b",
+      "sha256": "ed7f95de6dc97c969856de0197b7a6659306f708b54e9a1babae661a64095824",
       "status": "draft",
       "audience": [
         "public"
