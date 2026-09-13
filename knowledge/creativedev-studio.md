@@ -2,10 +2,12 @@
 type: Document
 title: CreativeDev studio overview
 description: What CreativeDev is, its services, portfolio, and how to reach it — added for testing.
-status: draft
+status: stable
+generated: { by: human:sharmeenfatima, at: 2026-09-14T14:00:00Z }
 ksor:
   audience: [public]
   owner: human:sharmeenfatima
+  approval: { by: human:sharmeenfatima, at: 2026-09-14T14:00:00Z }
 sources:
   - id: creativedev-store-2026-09-14
     resource: "https://www.creativedev.store"

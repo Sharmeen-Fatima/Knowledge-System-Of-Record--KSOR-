@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:1e56619c006ff0d2e623504d40ed15ced7e349be3204fc1f8d030796fe1734c4",
+  "build_id": "sha256:b3dd9fa1efc149df47ed1a0c2bbd3c37add42923c722735b0e5e8fcbb18eb49f",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "5747e99e1e03dd07f30570c03d2c8dc22160ecda",
+  "source_commit": "5355be0adb8f3d09ea1436d6a8ac378a7c3f9afe",
   "dirty": true,
-  "as_of": "2026-09-13T21:16:19.209Z",
+  "as_of": "2026-09-13T21:25:52.848Z",
   "drafts": "hidden",
   "instance_sha256": "94f90fe1ae6dca41e9a47a24ed09e1915459f8b093827a9bf334d7f218302ae4",
   "policy_sha256": "5476bb226d1e4ce03fd011cd048cb8ffa7671c8fe8142eebf7dded48eb03056d",
@@ -26,13 +26,26 @@
   },
   "documents": [
     {
-      "path": "creativedev-studio.md",
-      "sha256": "ed7f95de6dc97c969856de0197b7a6659306f708b54e9a1babae661a64095824",
-      "status": "draft",
+      "path": "creativedev-assistant.md",
+      "sha256": "9108c15e139cba3c4b332af90b2fb9fac307800dde0381502277d389c8977bb6",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "creativedev-studio.md",
+      "sha256": "d8ad7e2f2909135c9ca9e790e9429ea14f36d4bfb36beab28222b142fc1b84d4",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "governance-ladder.md",
@@ -111,7 +124,7 @@
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "45060d7b2889408ccbc837ecb9cbbcbf8449ad389b723c95f28522d2e37dc9ff"
+      "sha256": "1d588f6c4cdcbc2a260988dc1ec785a010e5ad4cd4f4dd26556a9c2d80bcd2b2"
     },
     {
       "path": "surfaces/index.md",
@@ -121,8 +134,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "0d265dd8c2791d74f3aecc6fd9628c10e7e32a938e8fcc6f53364476acec80ea",
-      "files": 9
+      "sha256": "fbc87138b4f6d21e03f6bedde1c471ac1ea6ff55ccbbc4f3241be19eb5b00b6e",
+      "files": 11
     }
   ]
 }
