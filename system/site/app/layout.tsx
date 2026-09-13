@@ -43,6 +43,7 @@ export default function Layout({ children }: LayoutProps<"/">) {
           }}
         />
         <RootProvider
+          theme={{ defaultTheme: "dark" }}
           search={{
             // Static search: the browser downloads the index that
             // app/api/search exports at build time (staticGET) and runs
